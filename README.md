@@ -25,5 +25,5 @@ A Node.js + Express backend service that handles user authentication and serves 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/crypto-tracker-backend.git
+git clone https://github.com/palhrsh09/crypto-trcaker-backend
 cd crypto-tracker-backend
